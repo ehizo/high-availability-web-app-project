@@ -1,0 +1,13 @@
+[{
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "CyUdacityProject2"
+    },
+    {
+        "ParameterKey": "SecKeyName",
+        "ParameterValue": "project2Key"
+    },
+    {
+        "ParameterKey": "LaunchConfigImageId",
+        "ParameterValue": "ami-052efd3df9dad4825"
+    }
+]
